@@ -19,7 +19,7 @@ To install the required packages, type -> ' pip install -r requirements.txt ' in
 
 ## Installation
 
-1. Clone this project to your local machine using the following command:
+Clone this project to your local machine using the following command:
   - git clone https://github.com/Forciu/Selenium_Python_Test-Case_E2E.git
 
 ## Usage
