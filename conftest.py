@@ -16,9 +16,9 @@ def setup(request):  # Main settings for all test cases
     browser_name = request.config.getoption("browser_name")
 
     if browser_name == "chrome":  #Chrome invocation
-        driver = webdriver.Chrome(executable_path="DriverEXE/chromedriver.exe")
+        driver = webdriver.Chrome(executable_path="/DriverEXE/chromedriver.exe")
     elif browser_name == "firefox":  # Firefox's invocation Gecko Driver
-        driver = webdriver.Firefox(executable_path="DriverEXE/geckodriver.exe")
+        driver = webdriver.Firefox(executable_path="/DriverEXE/geckodriver.exe")
 
     driver.get("https://rahulshettyacademy.com/angularpractice")
     driver.maximize_window()
