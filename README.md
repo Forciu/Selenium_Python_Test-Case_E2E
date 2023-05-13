@@ -10,7 +10,7 @@ This project contains end-to-end (E2E) tests for the process of purchasing an it
 
 Before running the project, make sure you have the following dependencies installed:
 
-- Python
+- Python -> possession required
 - Selenium
 - Pytest
 - openpyxl
