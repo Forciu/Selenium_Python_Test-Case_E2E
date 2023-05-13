@@ -1,0 +1,30 @@
+2023-05-13 14:07:30,993 :INFO : test_form_submission :test_submission - First name is Patryk
+2023-05-13 14:07:31,054 :INFO : test_form_submission :test_submission - Email is test@g.com
+2023-05-13 14:07:31,097 :INFO : test_form_submission :test_submission - Password is password1@
+2023-05-13 14:07:31,259 :INFO : test_form_submission :test_submission - Status is option1
+2023-05-13 14:07:31,314 :INFO : test_form_submission :test_submission - Birthdate is 01081999
+2023-05-13 14:07:31,417 :INFO : test_form_submission :test_submission - Success alert ×
+Success! The Form has been submitted successfully!.
+2023-05-13 14:07:31,684 :INFO : test_form_submission :test_submission - First name is Kacper
+2023-05-13 14:07:31,684 :INFO : test_form_submission :test_submission - First name is Kacper
+2023-05-13 14:07:31,725 :INFO : test_form_submission :test_submission - Email is test2@g.com
+2023-05-13 14:07:31,725 :INFO : test_form_submission :test_submission - Email is test2@g.com
+2023-05-13 14:07:31,763 :INFO : test_form_submission :test_submission - Password is password2@
+2023-05-13 14:07:31,763 :INFO : test_form_submission :test_submission - Password is password2@
+2023-05-13 14:07:31,908 :INFO : test_form_submission :test_submission - Status is option2
+2023-05-13 14:07:31,908 :INFO : test_form_submission :test_submission - Status is option2
+2023-05-13 14:07:31,916 :INFO : test_form_submission :test_submission - Status is option2
+2023-05-13 14:07:31,916 :INFO : test_form_submission :test_submission - Status is option2
+2023-05-13 14:07:31,961 :INFO : test_form_submission :test_submission - Birthdate is 02092000
+2023-05-13 14:07:31,961 :INFO : test_form_submission :test_submission - Birthdate is 02092000
+2023-05-13 14:07:32,047 :INFO : test_form_submission :test_submission - Success alert ×
+Success! The Form has been submitted successfully!.
+2023-05-13 14:07:32,047 :INFO : test_form_submission :test_submission - Success alert ×
+Success! The Form has been submitted successfully!.
+2023-05-13 14:07:49,253 :INFO : test_e2e :test_e2e - getting the card title - iphone X
+2023-05-13 14:07:49,265 :INFO : test_e2e :test_e2e - getting the card title - Samsung Note 8
+2023-05-13 14:07:49,275 :INFO : test_e2e :test_e2e - getting the card title - Nokia Edge
+2023-05-13 14:07:49,286 :INFO : test_e2e :test_e2e - getting the card title - Blackberry
+2023-05-13 14:07:49,414 :INFO : test_e2e :test_e2e - Entering country name as Pol
+2023-05-13 14:07:54,653 :INFO : test_e2e :test_e2e - Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
