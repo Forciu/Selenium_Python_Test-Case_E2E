@@ -21,7 +21,7 @@ class SubmitData:
     @staticmethod
     def exel_test_data(test_case_name):
         data = {}
-        exel = openpyxl.load_workbook("TestData\Testcases.xlsx")
+        exel = openpyxl.load_workbook("/TestData\Testcases.xlsx")
         sheet = exel.active
 
         for i in range(1, sheet.max_row + 1):
