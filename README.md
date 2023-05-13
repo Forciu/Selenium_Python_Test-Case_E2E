@@ -9,7 +9,7 @@ This project contains end-to-end (E2E) tests for the process of purchasing an it
 ## Requirements
 
 Before running the project, make sure you have the following dependencies installed:
-
+- Google Chrome -> version 113.0.5672.93
 - Python -> possession required
 - Selenium
 - Pytest
@@ -32,9 +32,11 @@ To run the tests, execute the following command:
   
   ## Run commands in terminal
   - python -m pytest --html=report.html -> for the execution of all tests with the generation of a report
-  - python -m pytest -k def -v -s -> def - the test you want to perform ( type - test_form_submission / test_e2e )
+  - python -m pytest -k def -v -s -> def - the test you want to perform ( type - test_form_Submit.py / test_e2e.py )
   - python -m pytest name.py -v -s -> execution of tests from the entire file ( name.py - the name of the file you want to execute )
-
+  
+  If you would like to run a given test in a different browser ( Chrome or Firefox ) -> Chrome run automatic
+  - python -m pytest test_e2e.py --browser_name firefox
  
 If you want to perform the test using data from exel:
 
