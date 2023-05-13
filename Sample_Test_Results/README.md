@@ -1,5 +1,5 @@
 # The folder contains 
-- sample logs of the tests performed.
+- Sample logs of the tests performed.
 - Captured ss's during the appearance of errors.
 
 ## Important!
