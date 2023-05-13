@@ -30,7 +30,7 @@ To run the tests, execute the following command:
   - cd xx( path to the location of the entire project folder ) -> indication of the project site
   - pip install -r requirements.txt -> installing the required packages
   
-  # Run commands in terminal
+  ## Run commands in terminal
   - python -m pytest --html=report.html -> for the execution of all tests with the generation of a report
   - python -m pytest -k def -v -s -> def - the test you want to perform ( type - test_form_submission / test_e2e )
   - python -m pytest name.py -v -s -> execution of tests from the entire file ( name.py - the name of the file you want to execute )
